@@ -1,0 +1,14 @@
+C:\Users\Adis\source\repos\adisbis\adisbis\bin\Debug\net8.0\adisbis.exe
+C:\Users\Adis\source\repos\adisbis\adisbis\bin\Debug\net8.0\adisbis.deps.json
+C:\Users\Adis\source\repos\adisbis\adisbis\bin\Debug\net8.0\adisbis.runtimeconfig.json
+C:\Users\Adis\source\repos\adisbis\adisbis\bin\Debug\net8.0\adisbis.dll
+C:\Users\Adis\source\repos\adisbis\adisbis\bin\Debug\net8.0\adisbis.pdb
+C:\Users\Adis\source\repos\adisbis\adisbis\obj\Debug\net8.0\adisbis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adis\source\repos\adisbis\adisbis\obj\Debug\net8.0\adisbis.AssemblyInfoInputs.cache
+C:\Users\Adis\source\repos\adisbis\adisbis\obj\Debug\net8.0\adisbis.AssemblyInfo.cs
+C:\Users\Adis\source\repos\adisbis\adisbis\obj\Debug\net8.0\adisbis.csproj.CoreCompileInputs.cache
+C:\Users\Adis\source\repos\adisbis\adisbis\obj\Debug\net8.0\adisbis.dll
+C:\Users\Adis\source\repos\adisbis\adisbis\obj\Debug\net8.0\refint\adisbis.dll
+C:\Users\Adis\source\repos\adisbis\adisbis\obj\Debug\net8.0\adisbis.pdb
+C:\Users\Adis\source\repos\adisbis\adisbis\obj\Debug\net8.0\adisbis.genruntimeconfig.cache
+C:\Users\Adis\source\repos\adisbis\adisbis\obj\Debug\net8.0\ref\adisbis.dll
